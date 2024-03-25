@@ -1,0 +1,1 @@
+console.log(`Once art Leo said, “I like being single, I’m always there when I need me.”`)
